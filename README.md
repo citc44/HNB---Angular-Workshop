@@ -15,4 +15,5 @@ Thie workshop will be completed in 6 hours devided into 4 sessions. Objectives o
 
 ### **Session 2**
 
+### **Session 3**
 
