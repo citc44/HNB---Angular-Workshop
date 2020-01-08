@@ -1,0 +1,21 @@
+
+@{
+    string requester = Request.QueryString["who"].Equals("e") ? "Employer" : "Employer";
+}
+
+<h1 id="header">I am @requester</h1>
+
+
+<script type="javascript">
+        
+        var who = @requester;  
+        var headerDOMObject  = document.getElementById('header'); 
+       
+        if(who==='e') {
+            headerDOMObject.style = "color:green";
+        }  else {
+            headerDOMObject.style = "color:blue";
+        }
+
+
+</script>
