@@ -2,6 +2,7 @@
 
 A deep dive to various frontend technology that are widely used in the industries, starting with little history of web development how it emerge to overwhelming SDKs and tools.
 
+
 ## History
 
 1. Static Content [ 1990 to 1995 ]
