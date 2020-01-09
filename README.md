@@ -19,7 +19,7 @@ If you want use your personal PC, please click on the links below to install the
 1. [Microsoft Visual Studio Code](https://code.visualstudio.com/download)
 2. [NodeJS](https://nodejs.org/en/download)
 
-## Sessions
+>## Sessions
 We will complete this workshop in six hours with four constructive sessions.  Below is the objective of each session.
 
 ### **Session 1**
